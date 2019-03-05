@@ -1,6 +1,7 @@
 '''
 해시 :  Key-value쌍으로 데이터를 저장하는 자료구조
 프로그래머스 - [위장]
+문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42578
 '''
 
 from collections import Counter
