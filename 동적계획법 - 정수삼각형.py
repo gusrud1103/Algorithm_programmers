@@ -1,6 +1,7 @@
 '''
 동적계획법: 불필요한 계산을 줄이고, 효율적으로 최적해를 찾기
 프로그래머스 - [정수 삼각형]
+문제 출처: https://programmers.co.kr/learn/courses/30/lessons/43105
 '''
 def solution(triangle):
     triangle.reverse()
