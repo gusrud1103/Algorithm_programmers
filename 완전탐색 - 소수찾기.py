@@ -1,6 +1,7 @@
 '''
 완전탐색: 가능한 모든 상황을 조사
 프로그래머스 - [소수 찾기]
+문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42839
 '''
 from itertools import permutations
 def is_prime_not_bad(n: int) -> bool:
