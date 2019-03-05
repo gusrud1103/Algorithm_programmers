@@ -1,6 +1,7 @@
 '''
 탐욕법: 부분적인 최적해가 전체적인 최적해가 되는 마법!
 프로그래머스 - [조이스틱]
+문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42860
 '''
 def solution(name):
     alpha = list('abcdefghijklmnopqrstuvwxyz'.upper())
